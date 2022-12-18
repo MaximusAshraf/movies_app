@@ -2,5 +2,7 @@
 
 Demo movie app.
 
-check doc/api/index.html for documentation
+Generate documentation with "dart doc ."
+
+Check doc/api/index.html for generated documentation
 
