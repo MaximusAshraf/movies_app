@@ -3,7 +3,6 @@ import 'package:movies_app/controllers/managers/app_messages_controller.dart';
 import 'package:movies_app/controllers/managers/request_status_controller.dart';
 import 'package:movies_app/enums/request_status.dart';
 import 'package:movies_app/models/movies/movie_filters.dart';
-import 'package:movies_app/providers/movies/discover_movies_provider.dart';
 import 'package:movies_app/providers/movies/search_movies_provider.dart';
 import 'package:movies_app/views/style/app_style.dart';
 import 'package:movies_app/views/widgets/loaders/lazy_loading.dart';

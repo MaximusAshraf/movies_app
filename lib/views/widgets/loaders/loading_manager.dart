@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:movies_app/controllers/managers/request_status_controller.dart';
 import 'package:movies_app/enums/request_status.dart';
 import 'package:movies_app/views/widgets/loaders/app_loading.dart';
+
 import 'failed_loading_view.dart';
 import 'no_item_found.dart';
 
